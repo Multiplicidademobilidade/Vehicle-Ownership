@@ -1,0 +1,576 @@
+SAMPLE_AREA_COD;SAMPLE_AREA_TYPE;LARGE_REGION;STATE_ACRONYM;STATE_NAME
+1101;State_Capital;North;RO;Rondonia
+1102;State_Capital;North;RO;Rondonia
+1103;State_non_Capital_MetropolitanArea;North;RO;Rondonia
+1104;State_non_Capital_MetropolitanArea;North;RO;Rondonia
+1105;State_non_Capital_MetropolitanArea;North;RO;Rondonia
+1106;State_non_Capital_MetropolitanArea;North;RO;Rondonia
+1107;State_non_Capital_MetropolitanArea;North;RO;Rondonia
+1108;Rural;North;RO;Rondonia
+1109;Rural;North;RO;Rondonia
+1110;Rural;North;RO;Rondonia
+1111;Rural;North;RO;Rondonia
+1201;State_Capital;North;AC;Acre
+1202;State_non_Capital_MetropolitanArea;North;AC;Acre
+1203;Rural;North;AC;Acre
+1204;Rural;North;AC;Acre
+1301;State_Capital;North;AM;Amazonas
+1302;State_Capital;North;AM;Amazonas
+1303;State_Capital;North;AM;Amazonas
+1304;State_Capital;North;AM;Amazonas
+1305;State_Capital;North;AM;Amazonas
+1306;State_Capital;North;AM;Amazonas
+1307;State_Capital_MetropolitanArea;North;AM;Amazonas
+1308;State_non_Capital_MetropolitanArea;North;AM;Amazonas
+1309;State_non_Capital_MetropolitanArea;North;AM;Amazonas
+1310;State_non_Capital_MetropolitanArea;North;AM;Amazonas
+1311;Rural;North;AM;Amazonas
+1312;Rural;North;AM;Amazonas
+1313;Rural;North;AM;Amazonas
+1314;Rural;North;AM;Amazonas
+1315;Rural;North;AM;Amazonas
+1316;Rural;North;AM;Amazonas
+1401;State_Capital;North;RR;Roraima
+1402;State_Capital;North;RR;Roraima
+1403;State_non_Capital_MetropolitanArea;North;RR;Roraima
+1404;Rural;North;RR;Roraima
+1405;Rural;North;RR;Roraima
+1501;State_Capital;North;PA;Para
+1502;State_Capital;North;PA;Para
+1503;State_Capital;North;PA;Para
+1504;State_Capital_MetropolitanArea;North;PA;Para
+1505;State_Capital_MetropolitanArea;North;PA;Para
+1506;State_non_Capital_MetropolitanArea;North;PA;Para
+1507;State_non_Capital_MetropolitanArea;North;PA;Para
+1508;State_non_Capital_MetropolitanArea;North;PA;Para
+1509;State_non_Capital_MetropolitanArea;North;PA;Para
+1510;State_non_Capital_MetropolitanArea;North;PA;Para
+1511;State_non_Capital_MetropolitanArea;North;PA;Para
+1512;Rural;North;PA;Para
+1513;Rural;North;PA;Para
+1514;Rural;North;PA;Para
+1515;Rural;North;PA;Para
+1516;Rural;North;PA;Para
+1517;Rural;North;PA;Para
+1518;Rural;North;PA;Para
+1519;Rural;North;PA;Para
+1601;State_Capital;North;AP;Amapa
+1602;State_Capital;North;AP;Amapa
+1603;State_Capital_MetropolitanArea;North;AP;Amapa
+1604;State_non_Capital_MetropolitanArea;North;AP;Amapa
+1605;Rural;North;AP;Amapa
+1606;Rural;North;AP;Amapa
+1607;Rural;North;AP;Amapa
+1701;State_Capital;North;TO;Tocantins
+1702;State_non_Capital_MetropolitanArea;North;TO;Tocantins
+1703;State_non_Capital_MetropolitanArea;North;TO;Tocantins
+1704;State_non_Capital_MetropolitanArea;North;TO;Tocantins
+1705;State_non_Capital_MetropolitanArea;North;TO;Tocantins
+1706;Rural;North;TO;Tocantins
+1707;Rural;North;TO;Tocantins
+1708;Rural;North;TO;Tocantins
+2101;State_Capital;Northeast;MA;Maranhao
+2102;State_Capital;Northeast;MA;Maranhao
+2103;State_Capital;Northeast;MA;Maranhao
+2104;State_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2105;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2106;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2107;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2108;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2109;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2110;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2111;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2112;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2113;State_non_Capital_MetropolitanArea;Northeast;MA;Maranhao
+2114;Rural;Northeast;MA;Maranhao
+2115;Rural;Northeast;MA;Maranhao
+2116;Rural;Northeast;MA;Maranhao
+2117;Rural;Northeast;MA;Maranhao
+2118;Rural;Northeast;MA;Maranhao
+2119;Rural;Northeast;MA;Maranhao
+2120;Rural;Northeast;MA;Maranhao
+2121;Rural;Northeast;MA;Maranhao
+2122;Rural;Northeast;MA;Maranhao
+2123;Rural;Northeast;MA;Maranhao
+2124;Rural;Northeast;MA;Maranhao
+2125;Rural;Northeast;MA;Maranhao
+2201;State_Capital;Northeast;PI;Piaui
+2202;State_Capital;Northeast;PI;Piaui
+2203;State_Capital;Northeast;PI;Piaui
+2204;State_non_Capital_MetropolitanArea;Northeast;PI;Piaui
+2205;State_non_Capital_MetropolitanArea;Northeast;PI;Piaui
+2206;State_non_Capital_MetropolitanArea;Northeast;PI;Piaui
+2207;State_non_Capital_MetropolitanArea;Northeast;PI;Piaui
+2208;State_non_Capital_MetropolitanArea;Northeast;PI;Piaui
+2209;State_non_Capital_MetropolitanArea;Northeast;PI;Piaui
+2210;Rural;Northeast;PI;Piaui
+2211;Rural;Northeast;PI;Piaui
+2212;Rural;Northeast;PI;Piaui
+2213;Rural;Northeast;PI;Piaui
+2214;Rural;Northeast;PI;Piaui
+2215;Rural;Northeast;PI;Piaui
+2216;Rural;Northeast;PI;Piaui
+2217;Rural;Northeast;PI;Piaui
+2301;State_Capital;Northeast;CE;Ceara
+2302;State_Capital;Northeast;CE;Ceara
+2303;State_Capital;Northeast;CE;Ceara
+2304;State_Capital;Northeast;CE;Ceara
+2305;State_Capital;Northeast;CE;Ceara
+2306;State_Capital;Northeast;CE;Ceara
+2307;State_Capital_MetropolitanArea;Northeast;CE;Ceara
+2308;State_Capital_MetropolitanArea;Northeast;CE;Ceara
+2309;State_Capital_MetropolitanArea;Northeast;CE;Ceara
+2310;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2311;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2312;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2313;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2314;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2315;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2316;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2317;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2318;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2319;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2320;State_non_Capital_MetropolitanArea;Northeast;CE;Ceara
+2321;Rural;Northeast;CE;Ceara
+2322;Rural;Northeast;CE;Ceara
+2323;Rural;Northeast;CE;Ceara
+2324;Rural;Northeast;CE;Ceara
+2325;Rural;Northeast;CE;Ceara
+2326;Rural;Northeast;CE;Ceara
+2327;Rural;Northeast;CE;Ceara
+2328;Rural;Northeast;CE;Ceara
+2329;Rural;Northeast;CE;Ceara
+2330;Rural;Northeast;CE;Ceara
+2401;State_Capital;Northeast;RN;Rio Grande do Norte
+2402;State_Capital;Northeast;RN;Rio Grande do Norte
+2403;State_Capital_MetropolitanArea;Northeast;RN;Rio Grande do Norte
+2404;State_non_Capital_MetropolitanArea;Northeast;RN;Rio Grande do Norte
+2405;State_non_Capital_MetropolitanArea;Northeast;RN;Rio Grande do Norte
+2406;State_non_Capital_MetropolitanArea;Northeast;RN;Rio Grande do Norte
+2407;State_non_Capital_MetropolitanArea;Northeast;RN;Rio Grande do Norte
+2408;State_non_Capital_MetropolitanArea;Northeast;RN;Rio Grande do Norte
+2409;Rural;Northeast;RN;Rio Grande do Norte
+2410;Rural;Northeast;RN;Rio Grande do Norte
+2411;Rural;Northeast;RN;Rio Grande do Norte
+2412;Rural;Northeast;RN;Rio Grande do Norte
+2501;State_Capital;Northeast;PB;Paraiba
+2502;State_Capital;Northeast;PB;Paraiba
+2503;State_Capital;Northeast;PB;Paraiba
+2504;State_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2505;State_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2506;State_non_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2507;State_non_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2508;State_non_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2509;State_non_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2510;State_non_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2511;State_non_Capital_MetropolitanArea;Northeast;PB;Paraiba
+2512;Rural;Northeast;PB;Paraiba
+2513;Rural;Northeast;PB;Paraiba
+2514;Rural;Northeast;PB;Paraiba
+2515;Rural;Northeast;PB;Paraiba
+2516;Rural;Northeast;PB;Paraiba
+2517;Rural;Northeast;PB;Paraiba
+2518;Rural;Northeast;PB;Paraiba
+2601;State_Capital;Northeast;PE;Pernambuco
+2602;State_Capital;Northeast;PE;Pernambuco
+2603;State_Capital;Northeast;PE;Pernambuco
+2604;State_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2605;State_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2606;State_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2607;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2608;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2609;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2610;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2611;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2612;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2613;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2614;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2615;State_non_Capital_MetropolitanArea;Northeast;PE;Pernambuco
+2616;Rural;Northeast;PE;Pernambuco
+2617;Rural;Northeast;PE;Pernambuco
+2618;Rural;Northeast;PE;Pernambuco
+2619;Rural;Northeast;PE;Pernambuco
+2620;Rural;Northeast;PE;Pernambuco
+2621;Rural;Northeast;PE;Pernambuco
+2622;Rural;Northeast;PE;Pernambuco
+2623;Rural;Northeast;PE;Pernambuco
+2624;Rural;Northeast;PE;Pernambuco
+2701;State_Capital;Northeast;AL;Alagoas
+2702;State_Capital;Northeast;AL;Alagoas
+2703;State_Capital;Northeast;AL;Alagoas
+2704;State_Capital_MetropolitanArea;Northeast;AL;Alagoas
+2705;State_non_Capital_MetropolitanArea;Northeast;AL;Alagoas
+2706;State_non_Capital_MetropolitanArea;Northeast;AL;Alagoas
+2707;State_non_Capital_MetropolitanArea;Northeast;AL;Alagoas
+2708;State_non_Capital_MetropolitanArea;Northeast;AL;Alagoas
+2709;Rural;Northeast;AL;Alagoas
+2710;Rural;Northeast;AL;Alagoas
+2711;Rural;Northeast;AL;Alagoas
+2712;Rural;Northeast;AL;Alagoas
+2713;Rural;Northeast;AL;Alagoas
+2801;State_Capital;Northeast;SE;Sergipe
+2802;State_Capital;Northeast;SE;Sergipe
+2803;State_Capital_MetropolitanArea;Northeast;SE;Sergipe
+2804;State_non_Capital_MetropolitanArea;Northeast;SE;Sergipe
+2805;State_non_Capital_MetropolitanArea;Northeast;SE;Sergipe
+2806;State_non_Capital_MetropolitanArea;Northeast;SE;Sergipe
+2807;Rural;Northeast;SE;Sergipe
+2808;Rural;Northeast;SE;Sergipe
+2809;Rural;Northeast;SE;Sergipe
+2810;Rural;Northeast;SE;Sergipe
+2901;State_Capital;Northeast;BA;Bahia
+2902;State_Capital;Northeast;BA;Bahia
+2903;State_Capital;Northeast;BA;Bahia
+2904;State_Capital;Northeast;BA;Bahia
+2905;State_Capital;Northeast;BA;Bahia
+2906;State_Capital;Northeast;BA;Bahia
+2907;State_Capital_MetropolitanArea;Northeast;BA;Bahia
+2908;State_Capital_MetropolitanArea;Northeast;BA;Bahia
+2909;State_Capital_MetropolitanArea;Northeast;BA;Bahia
+2910;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2911;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2912;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2913;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2914;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2915;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2916;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2917;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2918;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2919;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2920;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2921;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2922;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2923;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2924;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2925;State_non_Capital_MetropolitanArea;Northeast;BA;Bahia
+2926;Rural;Northeast;BA;Bahia
+2927;Rural;Northeast;BA;Bahia
+2928;Rural;Northeast;BA;Bahia
+2929;Rural;Northeast;BA;Bahia
+2930;Rural;Northeast;BA;Bahia
+2931;Rural;Northeast;BA;Bahia
+2932;Rural;Northeast;BA;Bahia
+2933;Rural;Northeast;BA;Bahia
+2934;Rural;Northeast;BA;Bahia
+2935;Rural;Northeast;BA;Bahia
+2936;Rural;Northeast;BA;Bahia
+2937;Rural;Northeast;BA;Bahia
+2938;Rural;Northeast;BA;Bahia
+2939;Rural;Northeast;BA;Bahia
+2940;Rural;Northeast;BA;Bahia
+2941;Rural;Northeast;BA;Bahia
+2942;Rural;Northeast;BA;Bahia
+3101;State_Capital;Southeast ;MG;Minas Gerais
+3102;State_Capital;Southeast ;MG;Minas Gerais
+3103;State_Capital;Southeast ;MG;Minas Gerais
+3104;State_Capital;Southeast ;MG;Minas Gerais
+3105;State_Capital;Southeast ;MG;Minas Gerais
+3106;State_Capital;Southeast ;MG;Minas Gerais
+3107;State_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3108;State_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3109;State_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3110;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3111;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3112;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3113;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3114;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3115;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3116;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3117;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3118;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3119;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3120;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3121;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3122;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3123;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3124;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3125;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3126;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3127;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3128;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3129;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3130;State_non_Capital_MetropolitanArea;Southeast ;MG;Minas Gerais
+3131;Rural;Southeast ;MG;Minas Gerais
+3132;Rural;Southeast ;MG;Minas Gerais
+3133;Rural;Southeast ;MG;Minas Gerais
+3134;Rural;Southeast ;MG;Minas Gerais
+3135;Rural;Southeast ;MG;Minas Gerais
+3136;Rural;Southeast ;MG;Minas Gerais
+3137;Rural;Southeast ;MG;Minas Gerais
+3138;Rural;Southeast ;MG;Minas Gerais
+3139;Rural;Southeast ;MG;Minas Gerais
+3140;Rural;Southeast ;MG;Minas Gerais
+3141;Rural;Southeast ;MG;Minas Gerais
+3142;Rural;Southeast ;MG;Minas Gerais
+3143;Rural;Southeast ;MG;Minas Gerais
+3144;Rural;Southeast ;MG;Minas Gerais
+3145;Rural;Southeast ;MG;Minas Gerais
+3146;Rural;Southeast ;MG;Minas Gerais
+3147;Rural;Southeast ;MG;Minas Gerais
+3148;Rural;Southeast ;MG;Minas Gerais
+3149;Rural;Southeast ;MG;Minas Gerais
+3201;State_Capital;Southeast ;ES;Espirito Santo
+3202;State_Capital;Southeast ;ES;Espirito Santo
+3203;State_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3204;State_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3205;State_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3206;State_non_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3207;State_non_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3208;State_non_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3209;State_non_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3210;State_non_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3211;State_non_Capital_MetropolitanArea;Southeast ;ES;Espirito Santo
+3212;Rural;Southeast ;ES;Espirito Santo
+3213;Rural;Southeast ;ES;Espirito Santo
+3214;Rural;Southeast ;ES;Espirito Santo
+3215;Rural;Southeast ;ES;Espirito Santo
+3301;State_Capital;Southeast ;RJ;Rio de Janeiro
+3302;State_Capital;Southeast ;RJ;Rio de Janeiro
+3303;State_Capital;Southeast ;RJ;Rio de Janeiro
+3304;State_Capital;Southeast ;RJ;Rio de Janeiro
+3305;State_Capital;Southeast ;RJ;Rio de Janeiro
+3306;State_Capital;Southeast ;RJ;Rio de Janeiro
+3307;State_Capital;Southeast ;RJ;Rio de Janeiro
+3308;State_Capital;Southeast ;RJ;Rio de Janeiro
+3309;State_Capital;Southeast ;RJ;Rio de Janeiro
+3310;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3311;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3312;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3313;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3314;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3315;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3316;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3317;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3318;State_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3319;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3320;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3321;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3322;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3323;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3324;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3325;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3326;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3327;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3328;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3329;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3330;State_non_Capital_MetropolitanArea;Southeast ;RJ;Rio de Janeiro
+3331;Rural;Southeast ;RJ;Rio de Janeiro
+3332;Rural;Southeast ;RJ;Rio de Janeiro
+3333;Rural;Southeast ;RJ;Rio de Janeiro
+3334;Rural;Southeast ;RJ;Rio de Janeiro
+3335;Rural;Southeast ;RJ;Rio de Janeiro
+3336;Rural;Southeast ;RJ;Rio de Janeiro
+3337;Rural;Southeast ;RJ;Rio de Janeiro
+3501;State_Capital;Southeast ;SP;Sao Paulo
+3502;State_Capital;Southeast ;SP;Sao Paulo
+3503;State_Capital;Southeast ;SP;Sao Paulo
+3504;State_Capital;Southeast ;SP;Sao Paulo
+3505;State_Capital;Southeast ;SP;Sao Paulo
+3506;State_Capital;Southeast ;SP;Sao Paulo
+3507;State_Capital;Southeast ;SP;Sao Paulo
+3508;State_Capital;Southeast ;SP;Sao Paulo
+3509;State_Capital;Southeast ;SP;Sao Paulo
+3510;State_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3511;State_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3512;State_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3513;State_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3514;State_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3515;State_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3516;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3517;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3518;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3519;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3520;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3521;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3522;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3523;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3524;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3525;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3526;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3527;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3528;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3529;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3530;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3531;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3532;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3533;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3534;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3535;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3536;State_non_Capital_MetropolitanArea;Southeast ;SP;Sao Paulo
+3537;Rural;Southeast ;SP;Sao Paulo
+3538;Rural;Southeast ;SP;Sao Paulo
+3539;Rural;Southeast ;SP;Sao Paulo
+3540;Rural;Southeast ;SP;Sao Paulo
+3541;Rural;Southeast ;SP;Sao Paulo
+3542;Rural;Southeast ;SP;Sao Paulo
+3543;Rural;Southeast ;SP;Sao Paulo
+3544;Rural;Southeast ;SP;Sao Paulo
+3545;Rural;Southeast ;SP;Sao Paulo
+3546;Rural;Southeast ;SP;Sao Paulo
+3547;Rural;Southeast ;SP;Sao Paulo
+3548;Rural;Southeast ;SP;Sao Paulo
+3549;Rural;Southeast ;SP;Sao Paulo
+3550;Rural;Southeast ;SP;Sao Paulo
+3551;Rural;Southeast ;SP;Sao Paulo
+3552;Rural;Southeast ;SP;Sao Paulo
+3553;Rural;Southeast ;SP;Sao Paulo
+4101;State_Capital;South;PR;Parana
+4102;State_Capital;South;PR;Parana
+4103;State_Capital;South;PR;Parana
+4104;State_Capital;South;PR;Parana
+4105;State_Capital;South;PR;Parana
+4106;State_Capital_MetropolitanArea;South;PR;Parana
+4107;State_Capital_MetropolitanArea;South;PR;Parana
+4108;State_Capital_MetropolitanArea;South;PR;Parana
+4109;State_non_Capital_MetropolitanArea;South;PR;Parana
+4110;State_non_Capital_MetropolitanArea;South;PR;Parana
+4111;State_non_Capital_MetropolitanArea;South;PR;Parana
+4112;State_non_Capital_MetropolitanArea;South;PR;Parana
+4113;State_non_Capital_MetropolitanArea;South;PR;Parana
+4114;State_non_Capital_MetropolitanArea;South;PR;Parana
+4115;State_non_Capital_MetropolitanArea;South;PR;Parana
+4116;State_non_Capital_MetropolitanArea;South;PR;Parana
+4117;State_non_Capital_MetropolitanArea;South;PR;Parana
+4118;State_non_Capital_MetropolitanArea;South;PR;Parana
+4119;State_non_Capital_MetropolitanArea;South;PR;Parana
+4120;State_non_Capital_MetropolitanArea;South;PR;Parana
+4121;State_non_Capital_MetropolitanArea;South;PR;Parana
+4122;State_non_Capital_MetropolitanArea;South;PR;Parana
+4123;State_non_Capital_MetropolitanArea;South;PR;Parana
+4124;State_non_Capital_MetropolitanArea;South;PR;Parana
+4125;Rural;South;PR;Parana
+4126;Rural;South;PR;Parana
+4127;Rural;South;PR;Parana
+4128;Rural;South;PR;Parana
+4129;Rural;South;PR;Parana
+4130;Rural;South;PR;Parana
+4131;Rural;South;PR;Parana
+4132;Rural;South;PR;Parana
+4133;Rural;South;PR;Parana
+4134;Rural;South;PR;Parana
+4135;Rural;South;PR;Parana
+4201;State_Capital;South;SC;Santa Catarina
+4202;State_Capital;South;SC;Santa Catarina
+4203;State_Capital_MetropolitanArea;South;SC;Santa Catarina
+4204;State_Capital_MetropolitanArea;South;SC;Santa Catarina
+4205;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4206;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4207;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4208;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4209;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4210;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4211;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4212;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4213;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4214;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4215;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4216;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4217;State_non_Capital_MetropolitanArea;South;SC;Santa Catarina
+4218;Rural;South;SC;Santa Catarina
+4219;Rural;South;SC;Santa Catarina
+4220;Rural;South;SC;Santa Catarina
+4221;Rural;South;SC;Santa Catarina
+4222;Rural;South;SC;Santa Catarina
+4223;Rural;South;SC;Santa Catarina
+4224;Rural;South;SC;Santa Catarina
+4225;Rural;South;SC;Santa Catarina
+4226;Rural;South;SC;Santa Catarina
+4301;State_Capital;South;RS;Rio Grande do Sul
+4302;State_Capital;South;RS;Rio Grande do Sul
+4303;State_Capital;South;RS;Rio Grande do Sul
+4304;State_Capital;South;RS;Rio Grande do Sul
+4305;State_Capital;South;RS;Rio Grande do Sul
+4306;State_Capital;South;RS;Rio Grande do Sul
+4307;State_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4308;State_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4309;State_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4310;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4311;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4312;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4313;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4314;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4315;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4316;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4317;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4318;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4319;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4320;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4321;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4322;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4323;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4324;State_non_Capital_MetropolitanArea;South;RS;Rio Grande do Sul
+4325;Rural;South;RS;Rio Grande do Sul
+4326;Rural;South;RS;Rio Grande do Sul
+4327;Rural;South;RS;Rio Grande do Sul
+4328;Rural;South;RS;Rio Grande do Sul
+4329;Rural;South;RS;Rio Grande do Sul
+4330;Rural;South;RS;Rio Grande do Sul
+4331;Rural;South;RS;Rio Grande do Sul
+4332;Rural;South;RS;Rio Grande do Sul
+4333;Rural;South;RS;Rio Grande do Sul
+4334;Rural;South;RS;Rio Grande do Sul
+4335;Rural;South;RS;Rio Grande do Sul
+5001;State_Capital;Midwest;MS;Mato Grosso do Sul
+5002;State_Capital;Midwest;MS;Mato Grosso do Sul
+5003;State_Capital;Midwest;MS;Mato Grosso do Sul
+5004;State_non_Capital_MetropolitanArea;Midwest;MS;Mato Grosso do Sul
+5005;State_non_Capital_MetropolitanArea;Midwest;MS;Mato Grosso do Sul
+5006;State_non_Capital_MetropolitanArea;Midwest;MS;Mato Grosso do Sul
+5007;State_non_Capital_MetropolitanArea;Midwest;MS;Mato Grosso do Sul
+5008;State_non_Capital_MetropolitanArea;Midwest;MS;Mato Grosso do Sul
+5009;State_non_Capital_MetropolitanArea;Midwest;MS;Mato Grosso do Sul
+5010;Rural;Midwest;MS;Mato Grosso do Sul
+5011;Rural;Midwest;MS;Mato Grosso do Sul
+5012;Rural;Midwest;MS;Mato Grosso do Sul
+5013;Rural;Midwest;MS;Mato Grosso do Sul
+5101;State_Capital;Midwest;MT;Mato Grosso
+5102;State_Capital;Midwest;MT;Mato Grosso
+5103;State_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5104;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5105;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5106;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5107;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5108;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5109;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5110;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5111;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5112;State_non_Capital_MetropolitanArea;Midwest;MT;Mato Grosso
+5113;Rural;Midwest;MT;Mato Grosso
+5114;Rural;Midwest;MT;Mato Grosso
+5115;Rural;Midwest;MT;Mato Grosso
+5116;Rural;Midwest;MT;Mato Grosso
+5117;Rural;Midwest;MT;Mato Grosso
+5118;Rural;Midwest;MT;Mato Grosso
+5201;State_Capital;Midwest;GO;Goias
+5202;State_Capital;Midwest;GO;Goias
+5203;State_Capital;Midwest;GO;Goias
+5204;State_Capital_MetropolitanArea;Midwest;GO;Goias
+5205;State_Capital_MetropolitanArea;Midwest;GO;Goias
+5206;State_Capital_MetropolitanArea;Midwest;GO;Goias
+5207;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5208;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5209;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5210;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5211;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5212;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5213;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5214;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5215;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5216;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5217;State_non_Capital_MetropolitanArea;Midwest;GO;Goias
+5218;Rural;Midwest;GO;Goias
+5219;Rural;Midwest;GO;Goias
+5220;Rural;Midwest;GO;Goias
+5221;Rural;Midwest;GO;Goias
+5222;Rural;Midwest;GO;Goias
+5223;Rural;Midwest;GO;Goias
+5224;Rural;Midwest;GO;Goias
+5225;Rural;Midwest;GO;Goias
+5301;State_Capital;Midwest;DF;Distrito Federal
+5302;State_Capital;Midwest;DF;Distrito Federal
+5303;State_Capital;Midwest;DF;Distrito Federal
+5304;State_Capital;Midwest;DF;Distrito Federal
+5305;State_Capital;Midwest;DF;Distrito Federal
+5306;State_Capital;Midwest;DF;Distrito Federal
+5307;Rural;Midwest;DF;Distrito Federal
+5308;Rural;Midwest;DF;Distrito Federal
