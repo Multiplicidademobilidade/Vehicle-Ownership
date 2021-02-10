@@ -1,5 +1,5 @@
 # Cars, motorcycles and bicycles ownership by dwelling and race in Brazil
-# Source: POF 2018 - Pesquisa de Orçamentos Familiares (Family Budget Survey)
+# Source: POF 2018 - Pesquisa de Orï¿½amentos Familiares (Family Budget Survey)
 # primary data available also at https://www.ibge.gov.br/
 
 library(openxlsx)
@@ -7,7 +7,7 @@ library(dplyr)
 library(tidyr)
 
 # 1 - original data
-  # import orignal data from POF - IBGE; reading code piece wrote by IBGE
+  # import orignal data from POF - IBGE;
   # only useful variables were English renamed:
   # "STATE_COD", "SAMPLE_AREA_COD", "URBAN_RURAL","SAMPLE_UNIT_COD", "DWELLING_NUMBER","WEIGHT"
 
